@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funcionarios>
+  <funcionario reg="0001">
+    <nome>José Saramago</nome>
+    <setor>Finanças</setor>
+    <salario>3000</salario>
+  </funcionario>
+  <funcionario reg="0002">
+    <nome>Andressa Nunes</nome>
+    <setor>RH</setor>
+    <salario>7500</salario>
+  </funcionario>
+  <funcionario reg="0003">
+    <nome>Lívia Jéssica</nome>
+    <setor>produção</setor>
+    <salario>2500</salario>
+  </funcionario>
+</funcionarios>
